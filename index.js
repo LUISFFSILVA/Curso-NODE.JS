@@ -1,11 +1,11 @@
 //const { Person } = require("./person");
 
-const dotenv = require("dotenv");
+//const dotenv = require("dotenv");
 
-const connectToDatabase = require("./src/database/connect");
-dotenv.config();
+//const connectToDatabase = require("./src/database/connect");
+//dotenv.config();
 
-connectToDatabase();
+//connectToDatabase();
 
 //const person = new Person("Luis Fernando");
 
